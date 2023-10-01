@@ -1,5 +1,7 @@
 package example02;
 
+import com.sun.xml.internal.ws.api.model.wsdl.WSDLOutput;
+
 public class ClassTest {
     public static void main(String[] args) {
         createTable();
@@ -13,4 +15,6 @@ public class ClassTest {
         System.out.println(creditCardNumber);
 
     }
+
 }
+

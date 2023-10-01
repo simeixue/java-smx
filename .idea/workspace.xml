@@ -5,10 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c3cf7572-bb6e-402a-8d21-d18a904cb34e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/example02/ClassTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/example02/Table.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/example02/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/example02/ThisDog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/example02/ThisTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/example02/Variable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/example03/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/example03/SE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/example03/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/example03/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/example04/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/example04/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/example04/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/example05/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/example06/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/example07/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/example08/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/example02/ClassTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/example02/ClassTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +65,82 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.31839082&quot;
   }
 }</component>
+  <component name="RunManager" selected="Application.example08.Person">
+    <configuration name="Person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="example07.Person" />
+      <module name="java-smx" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="example07.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="example04.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="example04.Test" />
+      <module name="java-smx" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="example04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="example05.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="example05.Test" />
+      <module name="java-smx" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="example05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="example06.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="example06.Test" />
+      <module name="java-smx" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="example06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="example08.Person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="example08.Person" />
+      <module name="java-smx" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="example08.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.example08.Person" />
+        <item itemvalue="Application.Person" />
+        <item itemvalue="Application.example06.Test" />
+        <item itemvalue="Application.example05.Test" />
+        <item itemvalue="Application.example04.Test" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -62,7 +151,7 @@
       <updated>1696045923966</updated>
       <workItem from="1696045925826" duration="3661000" />
       <workItem from="1696057292242" duration="755000" />
-      <workItem from="1696058083473" duration="680000" />
+      <workItem from="1696058083473" duration="16575000" />
     </task>
     <servers />
   </component>
